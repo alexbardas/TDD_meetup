@@ -8,8 +8,9 @@ python test.py
 python pacman.py
 ```
 
+
 Authors:
 
-    **Alex Bardas** (alex.bardas@gmail.com)
+**Alex Bardas** (alex.bardas@gmail.com) 
 
-    **Petre Tiberiu** (petre.tiberiu@gmail.com
+**Petre Tiberiu** (petre.tiberiu@gmail.com
